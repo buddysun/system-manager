@@ -1,0 +1,11 @@
+.form-group input{
+	width: 80%;
+	height: 32px;
+	border: 1px solid #30a5ff;
+	display: block;
+	border-color: #66afe9;
+	border-top-color: rgb(48, 165, 255);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-radius: 4px;
+}
